@@ -1,4 +1,9 @@
-## Tech Stack  
+## Hi there :wave: I'm Maksim
+
+- 👨🏽‍💻 I’m currently working on <a href="https://github.com/Brest-Java-Course-2021-2/Maksim-Meliashchuk-Setlist-Organizer" target="_blank">Setlist Organizer</a>
+- :mortar_board: Master of Science in Mechanical Engineering
+
+### Tech Stack  
 <div align="left">
 <img width="40" src="https://cdn.worldvectorlogo.com/logos/java-14.svg"/>
 <img width="40" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"/>
@@ -13,11 +18,11 @@
 
 <br/>  
 
-## Github Stats  
+### Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Maxxx873&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br/>  
 
-## Connect
+### Connect
 <div align="center">
 <a href="https://github.com/Maxxx873" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
