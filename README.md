@@ -3,7 +3,10 @@
 <img width="40" src="https://cdn.worldvectorlogo.com/logos/java-14.svg"/>
 <img width="40" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"/>
 <img width="40" src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg"/>
+<img width="40" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"/>
+<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/>
 <img width="40" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg"/>
+<img width="40" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"/>
 <img width="40" src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg"/>
 </div>
 
