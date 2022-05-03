@@ -4,13 +4,13 @@
 - :mortar_board: Master of Science in Mechanical Engineering
 
 <div align="center">
-<img width="40" src="https://cdn.worldvectorlogo.com/logos/java-14.svg"/>
-<img width="40" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"/>
-<img width="40" src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg"/>
-<img width="40" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"/>
-<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/>
-<img width="40" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"/>
-<img width="40" src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg"/>
+<img width="35" src="https://cdn.worldvectorlogo.com/logos/java-14.svg"/>
+<img width="35" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"/>
+<img width="35" src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg"/>
+<img width="35" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"/>
+<img width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/>
+<img width="35" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"/>
+<img width="35" src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg"/>
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Maxxx873&show_icons=true&count_private=true&hide_border=false"/></div>  
@@ -24,10 +24,8 @@
 </a>  
 </div>
 
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Maxxx873&&style=flat-square" align="center" />
 </div>  
 
-<br/>  
