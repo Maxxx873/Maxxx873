@@ -1,8 +1,17 @@
+## Tech Stack  
+<div align="left">
+<img width="40" src="https://cdn.worldvectorlogo.com/logos/java-14.svg"/>
+<img width="40" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"/>
+<img width="40" src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg"/>
+<img width="40" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg"/>
+<img width="40" src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg"/>
+</div>
+
+
 <br/>  
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Maxxx873&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
 <br/>  
 
 ## Connect
