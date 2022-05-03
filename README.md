@@ -11,14 +11,9 @@
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/>
 <img width="40" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"/>
 <img width="40" src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg"/>
-</div>
 
 
-<br/>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Maxxx873&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<br/>  
-
+<img src="https://github-readme-stats.vercel.app/api?username=Maxxx873&show_icons=true&count_private=true&hide_border=false"/></div>  
 
 <div align="center">
 <a href="https://github.com/Maxxx873" target="_blank">
