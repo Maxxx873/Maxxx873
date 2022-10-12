@@ -1,6 +1,6 @@
 ## Hi there :wave: I'm Maksim
 - :desktop_computer: I’m a developer with a passion for the Java and Spring ecosystem
-- 👨🏽‍💻 I’m currently working on <a href="https://github.com/Brest-Java-Course-2021-2/Maksim-Meliashchuk-Setlist-Organizer" target="_blank">Setlist Organizer</a>
+- 👨🏽‍💻 I’m currently working on <a href="https://github.com/Maxxx873/disposable-email-project" target="_blank">Disposable Email Project</a>
 - :mortar_board: Master of Science in Mechanical Engineering
 
 <div align="center">
